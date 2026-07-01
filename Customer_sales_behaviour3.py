@@ -53,7 +53,7 @@ print(df.columns)
 df.to_excel("data.xlsx", index=False)
 
 username = "postgres"
-password = "Usman0987"
+password = "----"
 host = "localhost"
 port = "5432"   
 database = "Customer_sales"
