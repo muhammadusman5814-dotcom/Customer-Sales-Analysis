@@ -41,4 +41,72 @@ Structured business dataset (3,900 rows × 18 columns) containing customer, prod
 
 ## 🛠️ Tools & Technologies
 
-| Catego
+| Category | Tools |
+|---|---|
+| Programming | Python (Pandas) |
+| Database | PostgreSQL |
+| Visualization | Power BI |
+| Presentation | Gamma, Microsoft PowerPoint |
+| Reporting | Microsoft Word / PDF |
+
+---
+
+## 🔄 Project Workflow
+
+**1. Data Loading**
+Imported the raw dataset into Python and reviewed its structure.
+
+**2. Exploratory Data Analysis (EDA)**
+- Analyzed distributions and summary statistics
+- Identified missing values, duplicates, and inconsistencies
+- Explored relationships between key variables using visualizations
+
+**3. Data Cleaning**
+- Handled missing values
+- Removed duplicate records
+- Corrected data types
+- Standardized fields for analysis
+
+**4. SQL Analysis (PostgreSQL)**
+- Imported the cleaned dataset into PostgreSQL
+- Wrote queries for filtering, sorting, and aggregating business metrics
+- Used Common Table Expressions (CTEs) for layered analysis
+- Generated analytical insights from raw SQL output
+
+**5. Power BI Dashboard**
+Built an interactive dashboard featuring:
+- KPI cards
+- Sales trend analysis
+- Customer insights
+- Product & category performance
+- Interactive filters and slicers
+
+**6. Reporting**
+Summarized key findings, trends, opportunities, and recommendations in a formal report.
+
+**7. Presentation**
+Drafted in Gamma, finalized in Microsoft PowerPoint for stakeholder sharing.
+
+---
+
+## 📈 Dashboard Highlights
+
+- Interactive KPI Cards
+- Trend Analysis
+- Category Performance
+- Customer Insights
+- Product Analysis
+- Dynamic Filters
+
+---
+
+## ✅ Key Results
+
+- Cleaned and transformed raw data into an analysis-ready dataset
+- Identified key business trends and performance metrics
+- Delivered an interactive Power BI dashboard for decision-making
+- Produced a professional report and presentation summarizing findings
+
+---
+
+## 📁 Project Structure
